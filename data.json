@@ -1,0 +1,36 @@
+{
+  "about": "Ambitious B.Tech Computer Science student at SVKM NMIMS, proficient in MERN stack development.",
+  "projects": [
+    {
+      "title": "FoodHub Authentication Portal",
+      "link": "https://zomatoclonepage.netlify.app/",
+      "description": "Zomato-inspired auth system with session-based login.",
+      "tech": "HTML, CSS, MongoDB"
+    },
+    {
+      "title": "TaskFlow Manager",
+      "link": "https://taskmanagerforday.netlify.app/",
+      "description": "Real-time task manager using localStorage.",
+      "tech": "HTML, CSS, JavaScript"
+    },
+    {
+      "title": "LibraryLink Inventory System",
+      "link": "https://github.com/Jainishd24/Book-Record-Management",
+      "description": "Academic library tracker with search, update, delete.",
+      "tech": "HTML, CSS, JavaScript"
+    }
+  ],
+  "skills": [
+    "Frontend: HTML5, CSS3, JavaScript, React.js, AngularJS",
+    "Backend: Node.js, Express.js",
+    "Database: MongoDB, MySQL",
+    "Tools: Git, GitHub, Postman, REST APIs, Netlify, Vercel, VS Code",
+    "Languages: C++, Python, HTML, CSS, JavaScript"
+  ],
+  "contact": {
+    "email": "jainishdevpura24@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jainish-devpura/",
+    "github": "https://github.com/Jainishd24",
+    "phone": "+91-9588914854"
+  }
+}
